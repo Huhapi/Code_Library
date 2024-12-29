@@ -1,0 +1,13 @@
+1. d4 Nf6 2. c3 d6 3. Bf4 g6 4. Nd2 Bg7 5. Bg5 Nbd7 6. e4 e5 7. d5 h6 8. Bh4 g5
+9. Bg3 Nc5 10. f3 b6 11. b4 Nb7 12. a4 a5 13. b5 Nc5 14. c4 Nh5 15. Nb3 Nxg3 16.
+hxg3 g4 17. Nxc5 bxc5 18. Be2 Qg5 19. fxg4 Qe3 20. Qd3 Qd4 21. Rd1 Bd7 22. Nf3
+Qxd3 23. Rxd3 Bxg4 24. Nh4 Bd7 25. Rf1 Ke7 26. Nf5+ Bxf5 27. Rxf5 Raf8 28. Bh5
+f6 29. Rdf3 Rh7 30. Bg6 Rhh8 31. g4 Rhg8 32. g3 Rh8 33. Ke2 Rhg8 34. Rf1 Bh8 35.
+Bh5 Rg5 36. R1f3 Bg7 37. Rf1 Bh8 38. R1f3 Bg7 39. Rxg5 hxg5 40. Rf1 Rb8 41. Rh1
+Rb6 42. Bg6 Kf8 43. Bf5 Kg8 44. Bd7 Kf7 45. Be6+ Kg6 46. Bf5+ Kf7 47. Rh7 Kf8
+48. Be6 Rb8 49. Kf3 Rb6 50. Kg2 Rb8 51. Kh3 Rb6 52. Rh5 Rb8 53. Kg2 Rb6 54. Kf3
+Rb8 55. Bd7 Rb6 56. Rh1 Rb8 57. Bc6 Rb6 58. Rg1 Rb8 59. Ke3 Rb6 60. Kd3 Rb8 61.
+Kc3 Rb6 62. Bd7 Rb8 63. Rh1 Rb6 64. Rh5 Rb8 65. Rh7 Rb6 66. Be6 Rb8 67. Rh1 Rb6
+68. Bf5 Rb8 69. Bh7 Rb6 70. Bg8 Rb8 71. Be6 Rb6 72. Bc8 Rb8 73. Bb7 Rxb7 74. Kb3
+Rb6 75. Rh3 Rb8 76. Kc3 Rb6 77. Rh1 Rb8 78. Kd3 Rb6 79. Rh2 Rb8 80. Rh1 Rb6 81.
+Rh2 Rb8 82. Rh1 1/2-1/2
